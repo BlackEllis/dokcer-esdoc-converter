@@ -10,7 +10,7 @@
 - [esdoc](https://www.npmjs.com/package/esdoc)
 - [esdoc-accessor-plugin](https://www.npmjs.com/package/esdoc-accessor-plugin)
 - [esdoc-brand-plugin](https://www.npmjs.com/package/esdoc-brand-plugin)
-- [esdoc-coverage-plugin ](https://www.npmjs.com/package/esdoc-coverage-plugin )
+- [esdoc-coverage-plugin](https://www.npmjs.com/package/esdoc-coverage-plugin)
 - [esdoc-external-ecmascript-plugin](https://www.npmjs.com/package/esdoc-external-ecmascript-plugin)
 - [esdoc-integrate-manual-plugin](https://www.npmjs.com/package/esdoc-integrate-manual-plugin)
 - [esdoc-integrate-test-plugin](https://www.npmjs.com/package/esdoc-integrate-test-plugin)
