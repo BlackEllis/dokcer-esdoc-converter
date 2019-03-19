@@ -56,6 +56,6 @@ docker run --rm -v $PWD:/root/app --rm esdoc-converter:8
 ## Use Dockerhub image
 
 ```bash
-docker pull raccoondog/dokcer-esdoc-converter:8
-docker run --rm -v $PWD:/root/app --rm raccoondog/dokcer-esdoc-converter:8
+docker pull blackellis/dokcer-esdoc-converter:8
+docker run --rm -v $PWD:/root/app --rm blackellis/dokcer-esdoc-converter:8
 ```
