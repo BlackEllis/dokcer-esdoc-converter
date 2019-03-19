@@ -57,5 +57,5 @@ docker run --rm -v $PWD:/root/app --rm esdoc-converter:8
 
 ```bash
 docker pull blackellis/dokcer-esdoc-converter:8
-docker run --rm -v $PWD:/root/app --rm blackellis/dokcer-esdoc-converter:8
+docker run --rm -v $PWD:/root/app blackellis/dokcer-esdoc-converter:8
 ```
