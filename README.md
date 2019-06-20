@@ -50,7 +50,7 @@ docker build -t esdoc-converter:8 ./8
 ### run container
 
 ```bash
-docker run --rm -v $PWD:/root/app --rm esdoc-converter:8
+docker run --rm -v $PWD:/root/app esdoc-converter:8
 ```
 
 ## Use Dockerhub image
