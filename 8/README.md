@@ -16,6 +16,7 @@
 ## use base container
 
 - [node](https://hub.docker.com/_/node)
+    ![](https://img.shields.io/badge/node_slim_-8.17.0-21cb00.svg)
 
 ## use package
 
@@ -43,18 +44,18 @@
 ### build
 
 ```bash
-docker build -t esdoc-converter:`version` ./`version`
+docker build -t esdoc-converter:8 ./8
 ```
 
 ### run container
 
 ```bash
-docker run --rm -v $PWD:/root/app esdoc-converter:`version`
+docker run --rm -v $PWD:/root/app esdoc-converter:8
 ```
 
 ## Use Dockerhub image
 
 ```bash
-docker pull blackellis/dokcer-esdoc-converter:`version`
-docker run --rm -v $PWD:/root/app blackellis/dokcer-esdoc-converter:`version`
+docker pull blackellis/dokcer-esdoc-converter:8
+docker run --rm -v $PWD:/root/app blackellis/dokcer-esdoc-converter:8
 ```

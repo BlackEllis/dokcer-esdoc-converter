@@ -1,4 +1,4 @@
-FROM node:8.11.4-slim
+FROM node:8-slim
 
 RUN npm install -g esdoc esdoc-node esdoc-standard-plugin \
                    esdoc-typescript-plugin eslint eslint-plugin-node \
